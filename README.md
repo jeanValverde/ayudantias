@@ -1,2 +1,2 @@
 # ayudantias
-Proyecto de innovación
+Proyecto de innovación para Duoc Uc 
